@@ -1,2 +1,2 @@
 # Project-Sea-Godot
-A simple game made with Godot Game Engine!😊
+A simple game made with the Godot Game Engine!😊
